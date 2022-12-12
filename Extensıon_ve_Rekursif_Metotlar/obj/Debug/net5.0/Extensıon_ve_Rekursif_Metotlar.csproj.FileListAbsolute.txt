@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\bin\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.exe
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\bin\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.deps.json
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\bin\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\bin\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\bin\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.dll
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\bin\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.pdb
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.dll
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\refint\Extensıon_ve_Rekursif_Metotlar.dll
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.pdb
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\Extensıon_ve_Rekursif_Metotlar.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Extensıon_ve_Rekursif_Metotlar\obj\Debug\net5.0\ref\Extensıon_ve_Rekursif_Metotlar.dll
